@@ -5,4 +5,4 @@ This is a college management which makes it easier for the students , parents an
 HAVE A LOOK AT THE WEBSITE :
 
 
-https://md-abid-ahmed.github.io/college-management-system/
+https://saahibah-baig.github.io/COLLEGE-MANAGEMENT/
